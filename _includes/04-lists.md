@@ -1,0 +1,3 @@
+* games
+* books
+* idk
