@@ -1,3 +1,3 @@
-*games
-*books
-*idk
+* games
+* books
+* idk
